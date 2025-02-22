@@ -4,8 +4,10 @@ This folder contains **detailed explanations** of some fundamental and advanced 
 
 ✅ **Step-by-step breakdown**  
 ✅ **Time and space complexity analysis**  
-✅ **Code implementation in multiple languages**  
-✅ **Real-world applications**  
+✅ **Code implementation in cpp**  
+
+## [Dutch national flag algorithm](https://github.com/Sri-Hasini/Imp-Algorithms/blob/main/001.dutch_national_flag_algo.md)
+## [Boyers moore majority voting algorithm](https://github.com/Sri-Hasini/Imp-Algorithms/blob/main/002.Boyers_moore_majority_voting_algorithm.md)
 
 Whether you're a beginner or an experienced programmer, this collection will help you **understand and implement algorithms effectively**. 🚀  
 
